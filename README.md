@@ -1,6 +1,6 @@
 # Golisto Concordium Tokenization Example
 
-### This is an example of how to make an interaction flow for adding metadata to an item, a user want to tokenize using Concordium.
+#### This is an example of how to make an interaction flow for adding metadata to an item, a user want to tokenize using Concordium.
 
 #### Example is written in React Native (Expo) using Typescript
 
